@@ -34,7 +34,7 @@ public class DetailActivity extends AppCompatActivity implements TrailerAdapter.
     private static final String TAG = "DetailActivity";
 
     //TODO ADD YOUR API KEY HERE
-    private static final String API_KEY = "0da864f75d1fb3a043ae6b3104483cd7";
+    private static final String API_KEY = "";
     public static int Movie_id;
     Movie movie;
     CheckBox Favourites_CheckBox;
