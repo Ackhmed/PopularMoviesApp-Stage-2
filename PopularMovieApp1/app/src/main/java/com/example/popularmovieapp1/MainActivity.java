@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements MovieAdapter.List
     private static final String TAG = "MainActivity";
 
     //TODO ADD YOUR API KEY HERE
-    private static final String API_KEY = "0da864f75d1fb3a043ae6b3104483cd7";
+    private static final String API_KEY = "";
     public MovieViewModel viewModel;
     private List<Movie> movieList;
     private MovieAdapter movieAdapter;
